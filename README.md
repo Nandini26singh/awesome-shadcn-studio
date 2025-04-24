@@ -164,6 +164,8 @@
 | Recursive Dnd Kanban Board | Recursively-generated drag and drop Accessible kanban board implementing using Next.js, @dnd-kit, Tailwind CSS and shadcn/ui | https://github.com/mehrdadrafiee/recursive-dnd-kanban-board |
 | Clerk Elements | Composable components that can be used to build custom UIs on top of Clerk's APIs. | https://clerk.com/docs/customization/elements/examples/shadcn-ui |
 | Simplekit | Responsive connect wallet and account component built on top of Wagmi and shadcn/ui. | https://github.com/vaunblu/SimpleKit |
+| Shadcn Studio | An open-source Shadcn registry of copy-and-paste components, blocks, and templates—paired with a powerful theme editor to craft, customize, and ship faster. | https://shadcnstudio.com/ |
+
 
 ## Colors And Customizations
 | Name | Description | Link |
