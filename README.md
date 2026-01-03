@@ -53,6 +53,7 @@
 | Bundui | A collection of components that you can copy and paste into your applications. Built with Tailwind CSS and Framer Motion. | https://github.com/bundui/components |
 | Lukacho UI | Next Generation UI Components. | https://ui.lukacho.com/components |
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
+| Manifest UI | Component library for ChatGPT Apps and MCP Apps | https://ui.manifest.build |
 
 ## Templates
 | Name | Description | Link |
@@ -88,7 +89,7 @@
 | Shadcn UI Templates | A collection of Free & Premium templates and resources for shadcn/ui. | https://shadcnui-templates.com |
 | horizon-ai-nextjs-shadcn-boilerplate | Premium AI NextJS & shadcn/ui Boilerplate + Stripe + Supabase + OAuth | https://horizon-ui.com/boilerplate-shadcn |
 | template-next | A clean Next.js template with TypeScript,TailwindCSS,Shadcn/ui,and Prettier. | https://template-next-official.vercel.app/ |
-| React Starter Kit | A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers. | https://github.com/kriasoft/react-starter-kit |
+| React Starter Kit | A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers. | https://github.com/kriasoft/react-starter-kit |*
 
 ## Components
 | Name | Description | Link |
