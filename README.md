@@ -54,6 +54,8 @@
 | Lukacho UI | Next Generation UI Components. | https://ui.lukacho.com/components |
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
 | shadcn/studio | Accelerate your project development with ready-to-use, and fully customizable shadcn ui Components, Blocks, UI Kits, Boilerplates, Templates and Themes with AI Tools | https://shadcnstudio.com/ |
+| Manifest UI | Component library for ChatGPT Apps and MCP Apps | https://ui.manifest.build |
+| RENBLOX | Reusable React and Next.js blocks built on shadcn/ui, with a visual page builder. | https://renblox.com |
 
 ## Templates
 | Name | Description | Link |
@@ -89,6 +91,7 @@
 | Shadcn UI Templates | A collection of Free & Premium templates and resources for shadcn/ui. | https://shadcnui-templates.com |
 | horizon-ai-nextjs-shadcn-boilerplate | Premium AI NextJS & shadcn/ui Boilerplate + Stripe + Supabase + OAuth | https://horizon-ui.com/boilerplate-shadcn |
 | template-next | A clean Next.js template with TypeScript,TailwindCSS,Shadcn/ui,and Prettier. | https://template-next-official.vercel.app/ |
+| React Starter Kit | A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers. | https://github.com/kriasoft/react-starter-kit |*
 
 ## Components
 | Name | Description | Link |
@@ -108,7 +111,7 @@
 | Shadcn UI Sidebar | A stunning, functional and responsive retractable sidebar built on top of shadcn/ui. | https://github.com/salimi-my/shadcn-ui-sidebar |
 | Shadcn UI Expansions | More components built on top of shadcn-ui. | https://github.com/hsuanyi-chou/shadcn-ui-expansions |
 | Shadcn UI Blocks | A collection of customized Shadcn UI components and blocks that you can copy and paste into your applications. | https://github.com/akash3444/shadcn-ui-blocks |
-| Stepperize | A library for creating step-by-step workflows in your apps. | https://github.com/damianricobelli/shadcn-stepper |
+| Stepperize | A library for creating step-by-step workflows in your apps. | https://github.com/damianricobelli/stepperize |
 | Onborda | An onboarding wizard flow / product tour for Next.js animated by framer motion | https://github.com/uixmat/onborda |
 | File Uploader | File uploader built with shadcn/ui and react-dropzone. | https://github.com/sadmann7/file-uploader |
 | Fancy Area | The Textarea is inspired by GitHub's PR comment section. The impressive part is the @mention support including hover cards in the preview. | https://craft.mxkaske.dev/post/fancy-area |
