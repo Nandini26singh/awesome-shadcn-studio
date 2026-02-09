@@ -54,6 +54,7 @@
 | Lukacho UI | Next Generation UI Components. | https://ui.lukacho.com/components |
 | Myna UI | TailwindCSS and shadcn/ui UI Kit for Figma and React. | https://mynaui.com/ |
 | Manifest UI | Component library for ChatGPT Apps and MCP Apps | https://ui.manifest.build |
+| RENBLOX | Reusable React and Next.js blocks built on shadcn/ui, with a visual page builder. | https://renblox.com |
 
 ## Templates
 | Name | Description | Link |
